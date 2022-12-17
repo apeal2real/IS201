@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black;
+    font-weight: 500;
+    background-color: antiquewhite;
+}
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color:black;
+}
+ol {
+    color: rgb(80, 80, 80)
+}
+ul{
+    color: rgb(70,70,70);
+}
+p {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.header{
+    float: right;
+}
+.intro{
+    top: 114px;
+    left: 5px;
+    width: 500px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 15px;
+}
+.mid{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+}
